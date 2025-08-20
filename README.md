@@ -1,5 +1,11 @@
 **Juego de la Oca - Entrega Final**
 
+**Desarrolladores:**
+
+- Kristel Badilla Cerdas
+-  Luis Fernando Vargas Mora
+-  Josué Arroyo Rodríguez
+
 **Instrucciones para ejecutar el codigo**
 
 - Tener instalado Visual Studio Code (VSC).
